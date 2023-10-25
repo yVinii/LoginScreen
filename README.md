@@ -7,7 +7,7 @@ Esse código foi pré disponibilizado em Java, meu objetivo era copiá-lo e segu
 
 ## Testes
 Métodos utilizados na LoginScreen
-### testSuccessfullLogin
+### testSuccesfullLogin
 ![image](https://github.com/yVinii/LoginScreen/assets/117307556/d86566ee-aca3-4197-a3a5-d317bb47f712)
 
 ### testFailedLogin
